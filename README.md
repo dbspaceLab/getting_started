@@ -10,15 +10,15 @@ Once we get things working, we need to trace back a reasonable causal chain that
 ## ToC
 1. Basic System
 2. Signal Processing
-  1. Modeling Noise ~ Modeling Signal
-  2. Filtering
-  3. Spectra and Oscillations
-  4. Beyond Oscillations
+    1. Modeling Noise ~ Modeling Signal
+    2. Filtering
+    3. Spectra and Oscillations
+    4. Beyond Oscillations
 3. Machine Learning and Maps
-  1. (Patho)Physiology
+    1. (Patho)Physiology
 4. Control Theory
-  1. Estimating Interventions
-  2. Ping (Pong)
-  3. Impulse Responses
+    1. Estimating Interventions
+    2. Ping (Pong)
+    3. Impulse Responses
 5. Geometry
-  1. Conservations and Symmetries
+    1. Conservations and Symmetries
